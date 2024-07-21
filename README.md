@@ -19,4 +19,4 @@ This project aims to enhance item compatibility predictions in the fashion e-com
 Detailed performance analysis and comparative studies show that the VAGCN model not only meets but consistently exceeds established benchmarks, demonstrating its advanced ability to integrate and analyze complex product relationships through its sophisticated graph convolutional architecture. 
 
 ## Contact
-- Umar Subhan Malhi – umarsubhanmalhi@example.com
+- Umar Subhan Malhi – umarsubhanmalhi@outlook.com
