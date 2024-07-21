@@ -16,7 +16,7 @@ This project aims to enhance item compatibility predictions in the fashion e-com
 - **trained models, results and logs**: Includes all trained models and detailed logs of the training process along with the results for compatibility predictions across all categories (Men, Women, Boys, Girls, Baby).
 
 ## Data Availability
-The datasets used in this project were curated by the UCSD CSE department and are maintained by Professor Julian McAuley. These datasets can be accessed through the following link: [UCSD Datasets](https://cseweb.ucsd.edu/~jmcauley/).
+The original datasets can be accessed through the following link: [jmcauley](https://cseweb.ucsd.edu/~jmcauley/).
 
 ## Results
 Detailed performance analysis and comparative studies show that the VAGCN model not only meets but consistently exceeds established benchmarks, demonstrating its advanced ability to integrate and analyze complex product relationships through its sophisticated graph convolutional architecture. 
