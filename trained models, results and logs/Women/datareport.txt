@@ -1,0 +1,21 @@
+50000 0.0014350112533569337
+100000 0.0014829017996788026
+Done!
+building data structures...
+Cat: Women, rel: bought_together
+ - There are 155344 edges
+ - There are 93726 unique nodes
+ - adj sum /2: 149690
+ - avg degree:  3.194204382988712
+Elapsed 3.4365382194519043
+(93726, 93726)
+done!
+building data structures...
+Cat: Women, rel: also_bought
+ - There are 1771173 edges
+ - There are 121963 unique nodes
+ - adj sum /2: 1644963
+ - avg degree:  26.974787435533727
+Elapsed 13.63624119758606
+(121963, 121963)
+done!

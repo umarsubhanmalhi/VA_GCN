@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/School/FARS/Dataset/Men/Men_also_viewed/logs/compatibilitygae.ckpt-300"
+all_model_checkpoint_paths: "D:/School/FARS/Dataset/Men/Men_also_viewed/logs/compatibilitygae.ckpt-300"

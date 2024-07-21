@@ -1,0 +1,30 @@
+Done!
+building data structures...
+Cat: Boys, rel: also_viewed
+ - There are 24380 edges
+ - There are 6695 unique nodes
+ - adj sum /2: 23564
+ - avg degree:  7.039283047050037
+Elapsed 0.8804769515991211
+(6695, 6695)
+done!
+building data structures...
+Cat: Boys, rel: bought_together
+ - There are 2572 edges
+ - There are 2306 unique nodes
+ - adj sum /2: 2507
+ - avg degree:  2.1743278404163053
+Elapsed 0.14329862594604492
+(2306, 2306)
+done!
+building data structures...
+Cat: Boys, rel: also_bought
+ - There are 22460 edges
+ - There are 5897 unique nodes
+ - adj sum /2: 21877
+ - avg degree:  7.419704934712565
+Elapsed 0.5232880115509033
+(5897, 5897)
+done!
+
+​

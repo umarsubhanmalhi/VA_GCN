@@ -1,0 +1,33 @@
+50000 0.0010123166799545287
+100000 0.0010253541350364686
+Done!
+building data structures...
+Cat: Men, rel: also_viewed
+ - There are 787048 edges
+ - There are 105462 unique nodes
+ - adj sum /2: 727597
+ - avg degree:  13.79827805275834
+Elapsed 14.743173837661743
+(105462, 105462)
+done!
+
+50000 0.0007818724393844604
+Done!
+building data structures...
+Cat: Men, rel: bought_together
+ - There are 45160 edges
+ - There are 30415 unique nodes
+ - adj sum /2: 43343
+ - avg degree:  2.8501068551701465
+Elapsed 1.4647061824798584
+(30415, 30415)
+done!
+building data structures...
+Cat: Men, rel: also_bought
+ - There are 441987 edges
+ - There are 49660 unique nodes
+ - adj sum /2: 410072
+ - avg degree:  16.5151832460733
+Elapsed 5.262038946151733
+(49660, 49660)
+done!

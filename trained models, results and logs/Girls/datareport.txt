@@ -1,0 +1,30 @@
+Done!
+building data structures...
+Cat: Girls, rel: also_viewed
+ - There are 103938 edges
+ - There are 19854 unique nodes
+ - adj sum /2: 97803
+ - avg degree:  9.85222121486854
+Elapsed 1.4200918674468994
+(19854, 19854)
+done!
+
+Done!
+building data structures...
+Cat: Girls, rel: bought_together
+ - There are 6962 edges
+ - There are 5671 unique nodes
+ - adj sum /2: 6743
+ - avg degree:  2.3780638335390583
+Elapsed 0.5476455688476562
+(5671, 5671)
+done!
+building data structures...
+Cat: Girls, rel: also_bought
+ - There are 63822 edges
+ - There are 11962 unique nodes
+ - adj sum /2: 60701
+ - avg degree:  10.148971743855542
+Elapsed 1.702789068222046
+(11962, 11962)
+done!
